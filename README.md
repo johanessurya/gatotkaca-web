@@ -32,5 +32,5 @@ and without ffmpeg. Re-run the script only if the Java assets change.
 
 ## Credits
 
-Original game and story by Yohanes Surya Kusuma. Educational use only, not for
+Original game and story by Johanes Surya Kusuma. Educational use only, not for
 commercial use (from the original README).
